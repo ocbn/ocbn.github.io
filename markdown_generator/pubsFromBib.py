@@ -163,11 +163,12 @@ for pubsource in publist:
 
             url = False
             if 'doi' in b.keys():
-                prefix = 'https//doi.org/'
+                prefix = ['https://doi.org/', 'http://doi.org/']
                 doi = b["doi"]
-                if prefix in doi:
-                    doi = doi.replace(prefix, '')
-                doi = prefix + doi
+                for p in prefix:
+                    if p in doi:
+                        doi = doi.replace(p, '')
+                doi = prefix[0] + doi
                 md += "\npaperurl: '" + doi + "'"
 
             if "url" in b.keys():

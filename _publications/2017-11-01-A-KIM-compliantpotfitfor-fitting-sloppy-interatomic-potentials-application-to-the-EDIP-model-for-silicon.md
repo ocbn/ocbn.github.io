@@ -5,7 +5,7 @@ permalink: /publication/2017-11-01-A-KIM-compliantpotfitfor-fitting-sloppy-inter
 excerpt: 'A KIM-compliantpotfitfor fitting sloppy interatomic potentials: application to the EDIP model for silicon.'
 date: 2017-11-01
 venue: 'Modell. Simul. Mater. Sci. Eng.'
-paperurl: 'https//doi.org/10.1088/0965-0393/25/1/014001'
+paperurl: 'https://doi.org/10.1088/0965-0393/25/1/014001'
 citation: '<b>M Wen</b>, J Li, P Brommer, RS Elliott, JP Sethna, EB Tadmor, &quot;A KIM-compliantpotfitfor fitting sloppy interatomic potentials: application to the EDIP model for silicon.&quot; <i>Modell. Simul. Mater. Sci. Eng.</i>, 25, 014001, (2017).'
 ---
 A KIM-compliantpotfitfor fitting sloppy interatomic potentials: application to the EDIP model for silicon.
