@@ -29,3 +29,11 @@ system.
 With such accurate IPs, I believe molecular simulations can become more trustable
 so that valuable information can be extracted to understand and design materials and
 structures, complementing theory and experiment.
+
+# Contact
+107 Akerman Hall, 110 Union St. SE,
+Minneapolis, MN, 55455
+
+Tel: 612-625-1047
+
+Email: wenxx151(at)umn.edu
