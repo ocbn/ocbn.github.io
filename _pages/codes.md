@@ -20,7 +20,7 @@ pair dirp
 =========
 LAMMPS implementation of the Dihedral-angle-corrected registry-dependent
 interlayer potential (DRIP) for multilayer graphene structures.
-- [documentation](https://lammps.sandia.gov/doc/Manual.html)
+- [documentation](https://lammps.sandia.gov/doc/pair_drip.html)
 - [examples](https://github.com/lammps/lammps/tree/master/examples/USER/misc/drip)
 
 
