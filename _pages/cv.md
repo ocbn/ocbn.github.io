@@ -9,17 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for a pdf version](https://mjwen.github.io/files/resume_Wen.pdf)
+[pdf version](https://mjwen.github.io/files/resume_Wen.pdf)
 
 Education
 ======
-* Ph.D. in Solid Mechanics, University of Minnesota, Sep 2013 - May 2019 (expected)
+* Ph.D. in Solid Mechanics, University of Minnesota, Sep 2013 - July 2019
   * Advisor: Professor Ellad B. Tadmor
 
 * B.S. in Process Equipment and Control Engineering, Tianjin University, Sep 2008 - Jun 2012
 
 Experiences
 ======
+* Postdoctoral scholar: University of California, Berkeley, since August 2019
+  * Advisor: Professor Kristin Persson
 * Visiting student: Department of Physics, Harvard University, Jan 2017 – Jun 2017
   * Advisor: Professor Efthimios Kaxiras
 * Research assistant, Department of Chemical Machinery, Tianjin University, Sep 2012 – Jul 2013

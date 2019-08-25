@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mingjian Wen"
   avatar           : "profile.jpeg"
-  bio              : "Research assistant, UMN"
-  location         : "Minneapolis, MN"
+  bio              : "Postdoc @ UCB"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com"
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "wen_mingjian"
   vine             :
   weibo            :
   xing             :
