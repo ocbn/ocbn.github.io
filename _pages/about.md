@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc scholar working with Prof. Kristin Persson to
-study battery materials using machine learning techniques.
+I am currently a postdoc scholar at LBNL working with Prof. Kristin Persson to
+study battery electrolytes using machine learning techniques.
 
-I obtained my Ph.D. in *Solid Mechanics* from the University of Minnesota.
-Supervised by Prof. Ellad Tadmor, I use mathematical modeling, data analytics,
-machine learning, and first-principles and empirical molecular simulations to
-study 2D materials and heterostructures (e.g. graphene and MoS2). In particular,
-I developed both physics-based and machine learning interatomic potentials for
-2D materials.
+I obtained my Ph.D. in *Solid Mechanics* from the Department of Aerospace
+Engineering and Mechanics at the University of Minnesota.
+Supervised by Prof. Ellad Tadmor, I worked on developing both physics-based and
+machine learning interatomic potentials for 2D materials (e.g. graphene and
+MoS2) and applied them to study the structural, mechanical, and thermal
+properties of 2D materials.
 
 
 # Contact
-107 Akerman Hall, 110 Union St. SE,
-Minneapolis, MN, 55455
+Lawrence Berkeley National Laboratory\\
+1 Cyclotron Road Mailstop 033-0142F\\
+Berkeley, CA 94720
 
-Tel: 612-625-1047
+Tel: 510-486-7218
 
-Email: wenxx151(at)umn.edu
+Email: mjwen@lbl.gov

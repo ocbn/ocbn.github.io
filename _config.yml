@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Mingjian Wen"
   avatar           : "profile.jpeg"
-  bio              : "Postdoc @ UCB"
+  bio              : "Postdoc @ LBNL"
   location         : "Berkeley, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Mingjian_Wen"
   uri              :
   bitbucket        :
   codepen          :
