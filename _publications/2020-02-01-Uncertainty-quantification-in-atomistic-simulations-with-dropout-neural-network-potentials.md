@@ -1,11 +1,11 @@
 ---
 title: "Uncertainty quantification in atomistic simulations with dropout neural network potentials"
 collection: publications
-permalink: /publication/2019-02-01-Uncertainty-quantification-in-atomistic-simulations-with-dropout-neural-network-potentials
+permalink: /publication/2020-02-01-Uncertainty-quantification-in-atomistic-simulations-with-dropout-neural-network-potentials
 excerpt: 'Uncertainty quantification in atomistic simulations with dropout neural network potentials.'
-date: 2019-02-01
+date: 2020-02-01
 venue: 'submitted'
-citation: '<b>M Wen</b>, EB Tadmor, &quot;Uncertainty quantification in atomistic simulations with dropout neural network potentials.&quot; <i>submitted</i>, (2019).'
+citation: '<b>M Wen</b>, EB Tadmor, &quot;Uncertainty quantification in atomistic simulations with dropout neural network potentials.&quot; <i>submitted</i>, (2020).'
 ---
 Uncertainty quantification in atomistic simulations with dropout neural network potentials.
 
