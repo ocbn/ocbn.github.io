@@ -4,8 +4,9 @@ collection: publications
 permalink: /publication/2019-12-01-Hybrid-neural-network-potential-for-multilayer-graphene
 excerpt: 'Hybrid neural network potential for multilayer graphene.'
 date: 2019-12-01
-venue: 'Physical Review B'
-citation: '<b>M Wen</b>, EB Tadmor, &quot;Hybrid neural network potential for multilayer graphene.&quot; <i>Physical Review B</i>, 100, 195419, (2019).'
+venue: 'Phys. Rev. B'
+paperurl: 'https://doi.org/10.1103/PhysRevB.100.195419'
+citation: '<b>M Wen</b>, EB Tadmor, &quot;Hybrid neural network potential for multilayer graphene.&quot; <i>Phys. Rev. B</i>, 100, 195419, (2019).'
 ---
 Hybrid neural network potential for multilayer graphene.
 
