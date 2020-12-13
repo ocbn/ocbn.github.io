@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf version](https://mjwen.github.io/files/resume_Wen.pdf)
+[CV](https://mjwen.github.io/files/resume_Wen.pdf)
 
+<!--
 Education
 ======
 * Ph.D. in Solid Mechanics, University of Minnesota, Sep 2013 - July 2019
@@ -70,7 +71,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-<!--
 Teaching
 ======
   <ul>{% for post in site.teaching %}
