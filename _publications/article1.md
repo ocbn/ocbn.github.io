@@ -1,5 +1,5 @@
 ---
-title: "Uniaxial ratcheting behavior of Zircaloy-4 tubes at room temperature"
+title: "article 1"
 collection: publications
 permalink: /publication/2013-04-01-Article 1
 excerpt: 'article 1.'
