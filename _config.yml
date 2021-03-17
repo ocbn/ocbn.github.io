@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingjian Wen"
+title                    : "Önder Çoban"
 title_separator          : "-"
-name                     : &name "Mingjian Wen"
-description              : &description "Research assistant at UMN"
+name                     : &name "Önder Çoban"
+description              : &description "Research assistant."
 url                      : https://ocbn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ocbn/ocbn.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingjian Wen"
-  avatar           : "profile.jpeg"
+  name             : "Önder Çoban"
+  avatar           : "bio-photo.jpg"
   bio              : "Postdoc @ LBNL"
   location         : "Berkeley, CA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=RXLH5k4AAAAJ&hl=en"
+  googlescholar    : ""
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Mingjian_Wen"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mjwen"
+  github           : "ocbn"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "wen_mingjian"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
