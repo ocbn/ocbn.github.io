@@ -11,9 +11,9 @@ title                    : "Mingjian Wen"
 title_separator          : "-"
 name                     : &name "Mingjian Wen"
 description              : &description "Research assistant at UMN"
-url                      : https://mjwen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ocbn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mjwen/mjwen.github.io"
+repository               : "ocbn/ocbn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
