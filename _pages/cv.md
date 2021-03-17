@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://mjwen.github.io/files/resume_Wen.pdf)
+[CV](https://ocbn.github.io/files/resume.pdf)
 
 <!--
 Education
