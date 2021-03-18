@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Önder Çoban"
   avatar           : "bio-photo.jpg"
-  bio              : "Postdoc @ LBNL"
-  location         : "Berkeley, CA"
+  bio              : "RA"
+  location         : "Turkey"
   employer         :
   pubmed           :
   googlescholar    : ""
@@ -225,15 +225,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
