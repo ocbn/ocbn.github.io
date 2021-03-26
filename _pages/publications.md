@@ -11,12 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-# MSC Thesis
+## Thesis
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-# National Conference Proceedings
+## National Conference Proceedings
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
