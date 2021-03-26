@@ -3,7 +3,7 @@ title: "MSc Thesis"
 collection: publications
 permalink: /publications/msc
 excerpt: 'article 1.'
-date: 2016
+date: 2016-06-20
 venue: 'venue'
 # paperurl: ''
 citation: '<b>x</b>,  &quot;article 1.&quot; <i>journal</i>, 46, 426-434, (2013).'
