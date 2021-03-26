@@ -12,11 +12,11 @@ author_profile: true
 {% include base_path %}
 
 ## Thesis
-{% for post in site.publications reversed %}
+{% for post in site.publications.thesis reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 ## National Conference Proceedings
-{% for post in site.publications reversed %}
+{% for post in site.publications.ncp reversed %}
   {% include archive-single.html %}
 {% endfor %}
