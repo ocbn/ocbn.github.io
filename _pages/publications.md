@@ -13,9 +13,17 @@ author_profile: true
 
 ## Thesis
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.type == 1 %}
+    {% include archive-single.html %}
 {% endfor %}
 
 ## National Conference Proceedings
-
+{% for post in site.publications reversed %}
+  {% if post.type == 2 %}
+    {% include archive-single.html %}
+{% endfor %}
 ## International Conference Proceedings
+{% for post in site.publications reversed %}
+  {% if post.type == 3 %}
+    {% include archive-single.html %}
+{% endfor %}
