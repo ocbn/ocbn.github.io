@@ -1,18 +1,18 @@
 ---
-title: "Sentiment analysis for Turkish Twitter feeds"
+title: "Metin sınıflandırma teknikleri ile türkçe twitter duygu analizi"
+subtitle: "Turkish twitter sentiment analysis using text classification techniques"
 collection: publications
-permalink: /publications/nconf1
-# excerpt: 'article 1.'
-date: 2015-05-16
-venue: 'IEEE Signal Processing and Communications Applications (SIU)'
-type: 2
-# paperurl: ''
+permalink: /publications/msc
+date: 2016-06-20
+type: 1
+citation: '<b>O. Çoban.</b> Metin sınıflandırma teknikleri ile türkçe twitter duygu analizi. Yüksek Lisans Tezi, <i>Atatürk Üniversitesi, Fen Bilimleri Enstitüsü</i>, (2016).'
 ---
+[[PDF]](https://tez.yok.gov.tr/UlusalTezMerkezi/SearchTezWS?key=cbOXH84ZayrLjc0tI-QXKmM_as-TrEzKFuAk2Rm7khvqeQ1XwUE31O14GGYp_zc4)
 
 ## Özet
-
+Metin sınıflandırma doğal dil metinlerini önceden tanımlanmış veya mevcut kategorilerden birisiyle etiketleme işlemidir. Doküman sınıflandırma, istenmeyen mesajların filtrelenmesi ve web sorgulamaları için doğru sonuçların görüntülenebilmesi gibi problemler metin sınıflandırma çalışmalarına örnek olarak verilebilir. Duygu analizi ise kişisel blog ve sosyal medya gibi mecralardan elde edilen metinsel veriler üzerinde semantik bilginin ortaya çıkarılması amacını taşır. İşlenen veriler kısa metinlerden oluştuğu için duygu analizi de bir metin sınıflandırma problemi olarak ele alınır. Metin sınıflandırma ve duygu analizi problemlerinin çözümü için diğer dillerde gerekli sistemler geliştirilmiş olmakla beraber Türkçe için yapılan çalışmalar oldukça sınırlıdır. Bu tezde, Twitter'dan elde edilen Türkçe mesajlar üzerinde iki kategorili duygu analizi çalışılmıştır. Duygu analizi bir metin sınıflandırma problemi olarak düşünülmüş; duygu analizi tekniklerinin yanı sıra klasik metin sınıflandırma teknikleri de kullanılmıştır. Twitter mesajlarında gözlenen baskın duygunun otomatik olarak tespitinde ise makine öğrenmesi yöntemleri kullanılmıştır. Hem metin sınıflandırma hem de duygu analizi deneylerinin gerçekleştirildiği bu çalışmada, asıl hedef ise duygu analizi başarısını artırmak olmuştur. Bu amaçla Türkçe Twitter duygu analizinde farklı önişleme, etiketleme, sınıflandırma ve benzerlik yöntemlerinin etkisi incelenmiştir. Ayrıca topik bilgisine dayalı etiketleme yöntemi önerilmiş ve en yüksek %92,50 oranında başarı elde edilmiştir. Böylece dil işleme ile ilgili işlemler uygulanmadan duygu analizi başarısı önceki çalışmalara kıyasla daha yüksek elde edilebilmiştir. Bunun yanı sıra, metin sınıflandırma ve duygu analizi süreçlerini otomatikleştirme amacıyla hem Türkçe hem de İngilizce metinsel içerikleri işleyebilen bir yazılım prototipi geliştirilmiştir.
 ## Abstract
-
+Text classification assigns one of available or predefined categories to natural language texts. Document classification, spam message filtering and retrieving the suitable results for web inquiries are examples of text classification studies. The sentiment analysis aims extracting semantic information from textual data which mostly obtained from personal blogs or social media platforms. Sentiment analysis is also considered as a text classification task due to the processed data consist of short texts. The necessary systems have been developed to solve text classification and sentiment analysis problems for other languages but there are quite a few studies for Turkish. In this thesis, binary sentiment analysis has been performed over Turkish feeds which are collected from Twitter. The sentiment analysis has been considered as a text classification task and classical text classification techniques have been employed in addition to the sentiment analysis techniques. While automatically detecting the dominant sentiment observed in Twitter feeds, machine learning techniques have been used. In this study, both text classification and sentiment analysis experiments have been performed and its main goal has been to increase the success of sentiment analysis. For this purpose the effect of different preprocessing, labeling, classification and similarity methods have been investigated in Turkish Twitter sentiment analysis. Also topic based labeling method has been suggested and the highest success rate has been obtained as %92,50. In this way, the sentiment analysis success could be obtained higher compared to the previous works without applying language processing techniques. And also, in order to automate text classification and sentiment analysis processes a software prototype has been developed with features that can handle textual contents in both Turkish and English languages.
 
 
 Use [Google Scholar](https://scholar.google.com/scholar?){:target="_blank"} for full citation
