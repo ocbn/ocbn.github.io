@@ -3,11 +3,8 @@ title: "Metin sınıflandırma teknikleri ile türkçe twitter duygu analizi"
 subtitle: "Turkish twitter sentiment analysis using text classification techniques"
 collection: publications
 permalink: /publications/msc
-# excerpt: 'article 1.'
 date: 2016-06-20
-# venue: 'venue'
 type: 1
-# paperurl: ''
 citation: '<b>Çoban, O.</b> &quot;Metin sınıflandırma teknikleri ile türkçe twitter duygu analizi.&quot; Yüksek Lisans Tezi, <i>Atatürk Üniversitesi, Fen Bilimleri Enstitüsü</i>, (2016).'
 ---
 [[PDF]](https://tez.yok.gov.tr/UlusalTezMerkezi/SearchTezWS?key=cbOXH84ZayrLjc0tI-QXKmM_as-TrEzKFuAk2Rm7khvqeQ1XwUE31O14GGYp_zc4)
