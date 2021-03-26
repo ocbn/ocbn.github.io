@@ -1,9 +1,9 @@
 ---
-title: "article 1"
+title: "MSc Thesis"
 collection: publications
-permalink: /publication/2013-04-01-Article 1
+permalink: /publication/msc
 excerpt: 'article 1.'
-date: 2013-04-01
+date: 2016
 venue: 'venue'
 paperurl: 'https://'
 citation: '<b>x</b>,  &quot;article 1.&quot; <i>journal</i>, 46, 426-434, (2013).'
