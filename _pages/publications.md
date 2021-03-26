@@ -20,3 +20,8 @@ author_profile: true
 {% for post in site.publications.ncp reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## International Conference Proceedings
+{% for post in site.publications.xx reversed %}
+  {% include archive-single.html %}
+{% endfor %}
