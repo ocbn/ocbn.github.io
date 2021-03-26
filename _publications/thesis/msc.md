@@ -1,7 +1,7 @@
 ---
 title: "MSc Thesis"
 collection: publications
-permalink: /publications/msc
+permalink: /publications/thesis/msc
 excerpt: 'article 1.'
 date: 2016-06-20
 venue: 'venue'
