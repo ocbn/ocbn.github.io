@@ -15,15 +15,18 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% if post.type == 1 %}
     {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 ## National Conference Proceedings
 {% for post in site.publications reversed %}
   {% if post.type == 2 %}
     {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 ## International Conference Proceedings
 {% for post in site.publications reversed %}
   {% if post.type == 3 %}
     {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
