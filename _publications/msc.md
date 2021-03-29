@@ -5,7 +5,7 @@ collection: publications
 permalink: /publications/msc
 date: 2016-06-20
 type: 1
-citation: '<b>Çoban. O.</b> Metin sınıflandırma teknikleri ile türkçe twitter duygu analizi. Yüksek Lisans Tezi, <i>Atatürk Üniversitesi, Fen Bilimleri Enstitüsü</i>, (2016).'
+citation: '<b>Çoban O.</b> Metin sınıflandırma teknikleri ile türkçe twitter duygu analizi. Yüksek Lisans Tezi, <i>Atatürk Üniversitesi, Fen Bilimleri Enstitüsü</i>, (2016).'
 ---
 [[PDF]](https://tez.yok.gov.tr/UlusalTezMerkezi/SearchTezWS?key=cbOXH84ZayrLjc0tI-QXKmM_as-TrEzKFuAk2Rm7khvqeQ1XwUE31O14GGYp_zc4)
 
