@@ -18,13 +18,13 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## National Conference Proceedings
+## Conference Proceedings
 {% for post in site.publications reversed %}
   {% if post.type == 2 %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-## International Conference Proceedings
+## Articles
 {% for post in site.publications reversed %}
   {% if post.type == 3 %}
     {% include archive-single.html %}
