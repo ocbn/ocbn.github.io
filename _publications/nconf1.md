@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/nconf1
 date: 2015-06-20
 type: 2
-citation: '<b>Ö. Çoban</b>, B. Özyer and G. T. Özyer, "Sentiment analysis for Turkish Twitter feeds," <i>2015 23nd Signal Processing and Communications Applications Conference (SIU)</i>, Malatya, Turkey, 2015, pp. 2388-2391, doi: 10.1109/SIU.2015.7130362.'
+citation: '<b>Çoban Ö.,</b>, Özyer B., and Özyer G. T. "Sentiment analysis for Turkish Twitter feeds," <i>2015 23nd Signal Processing and Communications Applications Conference (SIU)</i>, Malatya, Turkey, 2015, pp. 2388-2391, doi: 10.1109/SIU.2015.7130362.'
 ---
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/7130362)
 
