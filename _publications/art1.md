@@ -6,7 +6,7 @@ permalink: /publications/art1
 date: 2020-06-20
 type: 3
 venue: 'International Journal of Information Security Science'
-citation: '<b>Coban, O.</b>, Inan, A., & Ozel, S. A. (2020). "Towards the design and implementation of an OSN crawler: A case of Turkish Facebook users". <i>International Journal of Information Security Science</i>, 9(2), 76-93.'
+citation: '<b>Coban O</b>., Inan A., & Ozel S. A. (2020). "Towards the design and implementation of an OSN crawler: A case of Turkish Facebook users". <i>International Journal of Information Security Science</i>, 9(2), 76-93.'
 ---
 [[PDF]](https://www.ijiss.org/ijiss/index.php/ijiss/article/view/547/pdf_86)
 
