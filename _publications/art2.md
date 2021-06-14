@@ -2,7 +2,7 @@
 title: "Facebook Tells Me Your Gender: An Exploratory Study of Gender Prediction for Turkish Facebook Users"
 # subtitle: "Turkish twitter sentiment analysis using text classification techniques"
 collection: publications
-permalink: /publications/art1
+permalink: /publications/art2
 date: 2021-05-20
 type: 3
 venue: 'TALLIP'
