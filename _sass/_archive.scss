@@ -13,7 +13,18 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
   }
+   
+  a {
+    text-decoration: underline;
 
+    &:hover {
+      text-decoration: underline;
+
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
+  }
   
 }
 
