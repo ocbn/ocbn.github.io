@@ -115,12 +115,6 @@ author:
   youtube          :
   wikipedia        :
 
-share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
-  googlescholar: true
-
 # Reading Files
 include:
   - .htaccess
