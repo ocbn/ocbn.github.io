@@ -14,24 +14,14 @@
     @include prefix(0.5 of 12);
   }
 
-  a {
-    text-decoration: underline;
-
-    &:hover {
-      text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
-    }
-  }
+  
 }
 
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
-  color: #DC143C;
+  color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
