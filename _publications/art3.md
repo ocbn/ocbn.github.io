@@ -1,11 +1,12 @@
 ---
 title: "Deep Learning-based Sentiment Analysis of Facebook Data: The Case of Turkish Users"
+subtitle: ""
 collection: publications
 permalink: /publications/art3
 date: 2021-01-14
 type: 3
 venue: 'The Computer Journal'
-citation: <b>Çoban, Ö.</b>, Özel, S. A., and İnan, A. (2021). "Deep Learning-based Sentiment Analysis of Facebook Data: The Case of Turkish Users". <i>The Computer Journal</i>, 64(3), 473-499.
+citation: '<b>Çoban, Ö.</b>, Özel, S. A., and İnan, A. (2021). "Deep Learning-based Sentiment Analysis of Facebook Data: The Case of Turkish Users". <i>The Computer Journal</i>, 64(3), 473-499.'
 ---
 <a href="https://academic.oup.com/comjnl/article/64/3/473/6095851?guestAccessKey=3ef0149c-14c9-4841-b5e7-72b410404847>[[PDF]]</a>
 
