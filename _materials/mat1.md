@@ -2,7 +2,7 @@
 title: "Trained BERT models and cross-domain datasets used in cyberbully detection"
 # subtitle: "Turkish twitter sentiment analysis using text classification techniques"
 collection: materials
-permalink: /publications/mat1
+permalink: /materials/mat1
 date: 2022-06-17
 venue: ''
 
