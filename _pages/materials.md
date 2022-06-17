@@ -8,3 +8,7 @@ author_profile: true
 You can find materials used in my research studies on this page!
 
 {% include base_path %}
+
+{% for mat in site.materials reversed %}
+    {% include archive-single.html %}
+{% endfor %}
