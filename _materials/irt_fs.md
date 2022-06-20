@@ -9,7 +9,7 @@ date: 2022-06-20
 ## Info
 
 The materials which are accessible with the link given above used in my research study which is now under review! 
-The aims of the study is to propose a lossy modification of existing IRT-based feature selection approach previously provided satisfying results on text datasets.
+The aim of the study is to propose a lossy modification of existing IRT-based feature selection approach previously provided satisfying results on text datasets.
 
 The code related to this study will also be available online by publishing it on PyPI platform.
 
