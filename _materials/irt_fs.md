@@ -4,7 +4,7 @@ collection: materials
 permalink: /materials/irt_fs
 date: 2022-06-20
 ---
-[[Click here to access the respective materials]]([https://www.ijiss.org/ijiss/index.php/ijiss/article/view/547/pdf_86](https://www.dropbox.com/sh/h3fnrkxy8xhl16f/AABnwu9V_2-a8xLxqhHX4Mexa?dl=0))
+[[Click here to access the respective materials]](https://www.dropbox.com/sh/h3fnrkxy8xhl16f/AABnwu9V_2-a8xLxqhHX4Mexa?dl=0)
 
 ## Info
 
