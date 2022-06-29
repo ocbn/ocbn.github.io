@@ -8,4 +8,4 @@ date: 2022-06-17
 
 ## Info
 
-// to be updated
+Our trained BERT models as well as cross-domain datasets are now accessible by the link given above.
