@@ -10,6 +10,6 @@ date: 2022-09-23
 
 The materials which are accessible with the link given above used in my research study which is submitted to an international conference and now under review!
 
-The online repo include flowchart of our evaluation as well as the results of our extensive experiments involving different FS methods including IRT-based FS variants.
+The online repo includes the flowchart of our evaluation as well as the results of our extensive experiments involving different FS methods including IRT-based FS variants.
 
 The aim of the study is to provide an insight on the use of IRT-based FS variants on text datasets under different circumstances.
