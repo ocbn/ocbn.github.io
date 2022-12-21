@@ -1,5 +1,5 @@
 ---
-title: "Drought Parameter Estimation"
+title: "Drought Index Estimation"
 collection: materials
 permalink: /materials/dpe
 date: 2022-12-25
@@ -8,7 +8,7 @@ date: 2022-12-25
 
 ## Info
 
-This online repo includes the results of our study which focuses on drought parameter estimation by using both traditional regressors and deep learning methods.
+This online repo includes the results of our study which focuses on drought index estimation by using both traditional regressors and deep learning methods.
 The repo includes the results with respect to three stations (i.e., Ankara, Erzurum, Kayseri) located in Turkiye by using three different indices (i.e., SPI, SPEI, and RDI). 
 
 For the regressors, only predictions charts are included into the repo. For the deep learning algorithms the repo includes prediction and loss charts as well as model summaries and structures.
