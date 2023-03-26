@@ -6,7 +6,7 @@ permalink: /publications/art4
 date: 2023-03-25
 type: 3
 venue: 'ACM Transactions on Asian and Low-Resource Language Information Processing'
-citation: '<b>Çoban, Ö.</b>, Özel, S. A., and İnan, A. (2021). "Deep Learning-based Sentiment Analysis of Facebook Data: The Case of Turkish Users". <i>The Computer Journal</i>, 64(3), 473-499.'
+citation: '<b>Coban, O.</b>, Ozel, S. A., and Inan, A. (2023). "Detection and cross-domain evaluation of cyberbullying in Facebook activity contents for Turkish". <i>ACM Transactions on Asian and Low-Resource Language Information Processing</i>, 22(4), 1-32.'
 ---
 [[PDF]](https://academic.oup.com/comjnl/article/64/3/473/6095851?guestAccessKey=3ef0149c-14c9-4841-b5e7-72b410404847)
 
