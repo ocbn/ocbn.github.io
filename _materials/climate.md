@@ -2,7 +2,7 @@
 title: "Estimation of Climatological Parameters"
 collection: materials
 permalink: /materials/cpe
-date: 2023-07-26
+date: 2024-07-13
 ---
 [[Click here to access the respective materials]](https://www.dropbox.com/sh/uc2cz1xpud9ted3/AAD8UAQgMi9L3SgKu7SoIZ-ya?dl=0)
 
