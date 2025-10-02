@@ -8,7 +8,7 @@ date: 2025-10-02
 
 ## Info
 
-This page provides the information about our study (which is now under review in AJSE) that addresses performance disparity in machine learning-based automatic disease detection. 
-You can access the underlying datasets as well as the complete set of results and analyses using the ling provided at the top of this page!
+This page provides the supplementary material for our study (which is now under review in AJSE) that addresses performance disparity in machine learning-based automatic disease detection. 
+You can access the underlying datasets as well as the complete set of results and analyses using the link provided at the top of this page!
 
 The code implementing the methods used in our study is also public at out [[GitHub repo]](https://github.com/ocbn/mldisparity)!
