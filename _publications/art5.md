@@ -6,7 +6,7 @@ permalink: /publications/art5
 date: 2025-04-21
 type: 3
 venue: 'The Computer Journal'
-citation: '<b>Çoban, Ö.</b> and Altay Yücel, Ş. (2025). "Arming text-based gender inference with partition membership filtering and feature selection for online social network users". <i>The Computer Journal</i>, xx(x), xx-xx.'
+citation: '<b>Çoban, Ö.</b> and Altay Yücel, Ş. (2025). "Arming text-based gender inference with partition membership filtering and feature selection for online social network users". <i>The Computer Journal</i>, 68(9), 1208–1224.'
 ---
 [PDF](https://academic.oup.com/comjnl/advance-article/doi/10.1093/comjnl/bxaf032/8116799?utm_source=authortollfreelink&utm_campaign=comjnl&utm_medium=email&guestAccessKey=c8255676-c0ae-4c84-be2f-dc6734bfd7b3)
 
