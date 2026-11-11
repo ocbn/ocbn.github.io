@@ -5,7 +5,7 @@ collection: publications
 permalink: /publications/art6
 date: 2026-11-11
 type: 3
-venue: 'The Computer Journal'
+venue: 'Concurrency and Computation: Practice and Experience'
 citation: 'Alawi B. A., <b>Çoban, Ö.</b> and Bozkurt F. (2026). "A Transformer‐Driven Adversarial Framework for Gender Inference With Usernames and Display Names in Online Social Networks". <i>Concurrency and Computation: Practice and Experience</i>, 38, no. 22 (2026): e71024.'
 ---
 [PDF](https://onlinelibrary.wiley.com/share/author/9MV5ZK7J2Q4CBWBKM3VX?target=10.1002/cpe.71024)
